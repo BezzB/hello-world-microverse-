@@ -1,123 +1,47 @@
-Microverse README Template
 📗 Table of Contents
+
 📖 About the Project
+
 🛠 Built With
+
 Tech Stack
+
 Key Features
+
 🚀 Live Demo
+
 💻 Getting Started
-Setup
-Prerequisites
-Install
-Usage
-Run tests
-Deployment
-👥 Authors
-🔭 Future Features
-🤝 Contributing
-⭐️ Show your support
+
+Setup Prerequisites Install Usage Run tests Deployment 👥 Authors
+
 🙏 Acknowledgements
-❓ FAQ (OPTIONAL)
+
 📝 License
-📖 [Hello World Microverse]
 
-Hello World Microverse is a project the reflects on the process of setting up and using linters. It offers insight on exclusion to be added in branches and how to achieve pull request. 
+📖 Hello world pull request
 
-🛠 Built With
-Tech Stack
-Describe the tech stack and include only the relevant sections that apply to your project.
+Hello world pull request is a project that seeks to offer insight on how to branch and use pull request to make a project
 
-Client
-Server
-Database
-Key Features
-Describe between 1-3 key features of the application.
+🛠 Built With HTML CSS
 
-[Main]
-[Branch]
-[Pull request]
-(back to top)
+Key Features Simple Site Font used h1 tag specially used
 
-🚀 Live Demo
-Add a link to your deployed project.
+🚀 Live Demo Add a link to your deployed project.
 
-Live Demo Link
+💻 Getting Started Prerequisites A working Internet A good laptop self belief
 
+Setup Clone this repository to your desired folder:
 
-💻 Getting Started
-To get a local copy up and running, follow these steps.
+Install Install this project with:
 
-Prerequisites
-In order to run this project you need:
-
-Setup
-Clone this repository to your desired folder:
-
-Install
-Install this project with:
-
-Usage
-To run the project, execute the following command:
-
-Run tests
-To run tests, run the following command:
-
-Deployment
-You can deploy this project using:
-
-(back to top)
-
-👥 Authors
-Mention all of the collaborators of this project.
+👥 Authors Mention all of the collaborators of this project.
 
 👤 Author1
 
-GitHub: @githubhandle
-Twitter: @twitterhandle
-LinkedIn: LinkedIn
-👤 Author2
+GitHub: @Bezzb
 
-GitHub: @githubhandle
-Twitter: @twitterhandle
-LinkedIn: LinkedIn
-(back to top)
+🙏 Acknowledgments Give credit to everyone who inspired your codebase.
 
-🔭 Future Features
-Describe 1 - 3 features you will add to the project.
+I would like to thank my standup teammember Mario for helping me out in the project
 
- [new_feature_1]
- [new_feature_2]
- [new_feature_3]
-(back to top)
-
-🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the issues page.
-
-(back to top)
-
-⭐️ Show your support
-Write a message to encourage readers to support your project
-
-If you like this project...
-
-(back to top)
-
-🙏 Acknowledgments
-Give credit to everyone who inspired your codebase.
-
-I would like to thank...
-
-(back to top)
-
-❓ FAQ (OPTIONAL)
-Add at least 2 questions new developers would ask when they decide to use your project.
-
-[Question_1]
-
-[Answer_1]
-[Question_2]
-
-[Answer_2]
-
+📝 License This project is MIT licensed.
