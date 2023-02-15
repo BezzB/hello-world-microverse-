@@ -17,77 +17,51 @@ Prerequisites
 ❓ FAQ (OPTIONAL)
 📝 License
 📖 [Hello Microverse]
-Hello , This is a simple Hello microverse Project with some alignments.
-
-[Hello Microverse] is a simple buil up demo project.
+Push and Pull and Linters 
+Microverse Pull and Push is a project that demonstrates the use of linters and pull requests. 
 
 🛠 Built With
-Tech Stack
+
 HTML
 CSS
-Key Features
-[Simple Site]
-[Font used]
-[h1 tag specially used]
-(back to top)
+Key Aspects 
+Simple Site
+User friendly 
+
 
 🚀 Live Demo
-Live Demo Link(https://github.com/AbbasSarwar/Hello_Microverse)
-(back to top)
+Live Demo Link https://github.com/BezzB/hello-world-microverse-
+
 
 💻 Getting Started
-To get a local copy up and running, follow these steps.
 
 Prerequisites
 In order to run this project you need:
 
 Recommendation
 A good Computer
+A working internet connection 
 A good knowledge about CSS & HTML
-cd Hello_Microverse
-git clone https://github.com/AbbasSarwar/Hello_Microverse.git
-(back to top)
+Clone https://github.com/BezzB/hello-world-microverse-
+
 
 👥 Authors
-Mention all of the collaborators of this project.
+
 
 👤 Author1
 
-GitHub: @AbbasSarwar
-Twitter: @Abbas_sDev
-LinkedIn: LinkedIn
-(back to top)
+GitHub: @bezzB
 
-🔭 Future Features
- [Flexable colors]
- [Nav Bars]
- [Footer]
-(back to top)
 
-🤝 Contributing
-Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
-
-(back to top)
-
-⭐️ Show your support
-Write a message to encourage readers to support your project
-
-If you like this please comment on it.
-
-(back to top)
 
 🙏 Acknowledgments
-Give credit to everyone who inspired your codebase.
+I will like to appriacate my standup parter Mario for the help through the project. 
 
-I would like to thank you All Microverse community.
-
-(back to top)
 
 📝 License
 This project is MIT licensed.
 
-NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
+
 
 
