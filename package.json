@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/BezzB/hello-world-microverse-/issues"
   },
-  "homepage": "https://github.com/BezzB/hello-world-microverse-#readme"
+  "homepage": "https://github.com/BezzB/hello-world-microverse-#readme",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
 }
