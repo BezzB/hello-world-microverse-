@@ -32,7 +32,7 @@ After you're finished please remove all the comments and instructions!
 -->
 
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Microverse First Project</b></h3>
 
 </div>
 
@@ -62,11 +62,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 [Microverse First Project] <a name="about-project"></a>
 
-> Hello , This is a simple Hello microverse Project with some alignments.
+> Hello , This is a simple project demonstrating how to use linters and push.
 
-**[Hello Microverse]** is a simple buil up demo project.
+**[Microverse First Project]** is a simple buil up demo project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -89,8 +89,7 @@ After you're finished please remove all the comments and instructions!
 
 - **[Simple Site]**
 - **[Font used]**
-- **[h1 tag specially used]**
-
+-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
@@ -98,7 +97,7 @@ After you're finished please remove all the comments and instructions!
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link]([https://github.com/AbbasSarwar/Hello_Microverse])(https://github.com/AbbasSarwar/Hello_Microverse)
+- [Live Demo Link](https://github.com/BezzB/hello-world-microverse-)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,7 +118,7 @@ In order to run this project you need:
 2. A good knowledge about CSS & HTML
 
 * cd Hello_Microverse
-* git clone https://github.com/AbbasSarwar/Hello_Microverse.git
+* git clone https://github.com/BezzB/hello-world-microverse-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,9 +130,8 @@ In order to run this project you need:
 
 👤 **Author1**
 
-- GitHub: [@AbbasSarwar](https://github.com/AbbasSarwar)
-- Twitter: [@Abbas_sDev](https://twitter.com/Abbas_sDev)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abbas-sarwar-4a0b16257/)
+- GitHub: [@bezzB]
+- 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,7 +172,7 @@ If you like this please comment on it.
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank you All Microverse community.
+I would like to thank you my patner Mario and Abass for the help.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
