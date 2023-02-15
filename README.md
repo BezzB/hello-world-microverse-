@@ -29,9 +29,9 @@ HTML
 CSS
 
 Key Features
-[Simple Site]
-[Font used]
-[h1 tag specially used]
+Simple Site
+Font used
+h1 tag specially used
 
 🚀 Live Demo
 Add a link to your deployed project.
